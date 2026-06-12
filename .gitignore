@@ -4,4 +4,6 @@ dist/
 server/fintech.db
 server/crm.db
 *.db
+*.db-shm
+*.db-wal
 .env
