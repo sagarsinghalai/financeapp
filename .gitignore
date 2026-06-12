@@ -1,0 +1,7 @@
+node_modules/
+server/node_modules/
+dist/
+server/fintech.db
+server/crm.db
+*.db
+.env
